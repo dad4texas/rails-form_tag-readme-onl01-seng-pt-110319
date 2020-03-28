@@ -12,6 +12,4 @@ class PostsController < ApplicationController
   end
 
 end
-class Application < Rails::Application
-  config.web_console.whitelisted_ips = '<IP address here>'
-end
+
